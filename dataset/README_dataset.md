@@ -18,7 +18,7 @@ In the initial step, we work with two distinct datasets: one for training and an
 
 
 <br></br>
-List of all of the columns (133) has written above with 0 / 1 values except `target label` with string values. 
+There are 133 columns in the training dataset that all of them have filled with 0 / 1 values except `target label` with string values like AIDS, Diabets, Cancer and so on.
 
 <br>
 <br>
