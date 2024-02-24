@@ -10,7 +10,7 @@ This article seeks to develop a resilient machine learning model capable of accu
 In this project, we have established a well-structured pipeline to execute each step or phase separately, allowing us to concentrate more effectively on each individual stage. The pipeline attached below :
 
 
-<img src=(https://github.com/rezakharamani/DiseasePredictionClassification/blob/main/imagePipeline.png)>
+<img src=https://github.com/rezakharamani/DiseasePredictionClassification/blob/main/imagePipeline.png>
 
 <br>
 <br>
