@@ -3,4 +3,22 @@
                                     Disease dataset as CSV file 
 
 
-This article seeks to develop a resilient machine learning model capable of accurately predicting human diseases by efficiently analyzing the symptoms exhibited by individuals. 
+This article seeks to develop a resilient machine learning model capable of accurately predicting human diseases by efficiently analyzing the symptoms exhibited by individuals.
+<br>
+<br>
+
+In this project, we have established a well-structured pipeline to execute each step or phase separately, allowing us to concentrate more effectively on each individual stage. The pipeline attached below :
+
+
+<img src = /Users/rezakharamani/Documents/GitHub/DiseasePredictionClassification/imagePipeline.png>
+
+<br>
+<br>
+In the initial step, we work with two distinct datasets: one for training and another for testing. In this phase, we analyze the training data in the CSV files using Matplotlib libraries. Subsequently, we proceed with data modification to ensure cleanliness and readiness for processing, ultimately enabling accurate predictions. The number patients in training dataset is 4921, and for test is 43.
+
+
+<br></br>
+List of all of the columns (133) has written above with 0 / 1 values except `target label` with string values. 
+
+<br>
+<br>
