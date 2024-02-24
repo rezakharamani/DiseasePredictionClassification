@@ -1,2 +1,2 @@
-# DiseasePredictionClassification
-Disease Prediction Using Machine Learning
+# `Disease Prediction` Classification
+Disease Prediction Classification Using Machine Learning Algorithm
