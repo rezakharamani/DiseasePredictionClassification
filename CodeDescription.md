@@ -25,10 +25,12 @@ In the initial step, we work with two distinct datasets: one for training and an
 
 <br>
 
-`Data Collection:` The first step in tackling any machine learning problem involves preparing the data. In this project, we utilize a dataset sourced from Kaggle, comprising two CSV files for training and testing. The dataset comprises a total of 133 columns, where 132 columns represent symptoms and the last column denotes the prognosis.
+`Data Collection:` The first step in tackling any machine learning problem involves preparing the data. In this project, we utilize a dataset sourced from Kaggle [CSV File](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning?select=Testing.csv), comprising two CSV files for training and testing. The dataset comprises a total of 133 columns, where 132 columns represent symptoms and the last column denotes the prognosis.
 
 `Data Cleansing:` Cleaning the data is a crucial aspect of any machine learning endeavor, as the quality of the data directly influences the model's efficacy. In our dataset, all columns are numerical, with the target column (prognosis) being in string format, and it is transformed into numerical form through label encoding.
 
 `Model Development:` With the data gathered and cleaned, we move on to building machine learning models. The cleaned data is employed to train Support Vector Classifier, Naive Bayes Classifier, and Random Forest Classifier. The quality of these models is assessed using a confusion matrix.
 
 `Inference:` Following the training of the three models, we predict diseases based on input symptoms by combining the predictions from all three models. This approach enhances the overall robustness and accuracy of our predictions.
+
+
